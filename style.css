@@ -29,13 +29,13 @@ h1 {
     font-size: 30px;
     margin-top: 0;
     text-shadow: 2px 2px 3px rgb(19, 4, 4);
-    color: rgb(187, 208, 187);
-    border-bottom: 2px solid rgb(149, 221, 121);
+    color: rgb(6, 58, 18);
+   border-bottom: 2px solid rgb(166, 121, 221);
     padding-bottom: 10px;
 }
 
 
-input[type="text"] {
+input {
     flex-grow: 1;
     padding: 10px;
     border: none;
@@ -49,7 +49,7 @@ button {
     background-color: #4CAF50;
     border: none;
     color: #fff;
-    font-size: 1em;
+    font-size: 20px;
     border-radius: 5px;
     cursor: pointer;
     box-shadow: 0px 2px 5px black;
@@ -58,11 +58,12 @@ button {
 }
 
 button:hover {
-    background-color: #3e8e41;
+    background-color:#8e463e;
 }
 
 #age {
-    color: rgb(248, 245, 245);
+    color:rgb(56, 22, 134);
     font-weight: 600;
     text-shadow: 1px 2px 3px black;
+     font-size: 15px;
 }
